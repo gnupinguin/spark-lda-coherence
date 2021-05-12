@@ -2,7 +2,7 @@
 Example of Topic Coherence Calculation for LDA (Latent Dirichlet allocation) model in Apache Spark.
 
 The example uses Pointwise mutual information (PMI) for topic coherence calculation.
-In more details, it uses Intrinsic UMass measure.
+In details, it uses Intrinsic UMass measure.
 Helpful articles:
 - [Method explanation](http://qpleple.com/topic-coherence-to-evaluate-topic-models/)
 - [Clarification](https://stats.stackexchange.com/questions/375062/how-does-topic-coherence-score-in-lda-intuitively-makes-sense)
