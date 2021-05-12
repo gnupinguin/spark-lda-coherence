@@ -14,7 +14,7 @@ There is example of usage in CoherenceTest file.
 
 Also, you can compile the project and add it dependency to your project:
 
-Example:
+Example? publish to local Maven:
 ```sbt publishM2```
 
 And next:
