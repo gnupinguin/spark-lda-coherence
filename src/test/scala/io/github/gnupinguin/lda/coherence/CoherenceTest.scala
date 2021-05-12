@@ -1,4 +1,4 @@
-package io.gnupinguin.lda.coherence
+package io.github.gnupinguin.lda.coherence
 
 import org.apache.spark.ml.clustering.{LDA, LDAModel}
 import org.apache.spark.ml.feature.{CountVectorizer, CountVectorizerModel, StopWordsRemover, Tokenizer}

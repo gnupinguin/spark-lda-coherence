@@ -1,4 +1,4 @@
-package io.gnupinguin.lda.coherence
+package io.github.gnupinguin.lda.coherence
 
 import org.apache.spark.ml.Model
 import org.apache.spark.ml.linalg.SparseVector
