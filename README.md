@@ -1,5 +1,5 @@
 # spark-lda-coherence
-Example of Topic Coherence Calculation for LDA (Latent Dirichlet allocation) model in Apache Spark
+Example of Topic Coherence Calculation for LDA (Latent Dirichlet allocation) model in Apache Spark.
 
 The example uses Pointwise mutual information (PMI) for topic coherence calculation.
 In more details, it uses Intrinsic UMass measure.
